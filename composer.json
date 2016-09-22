@@ -1,5 +1,5 @@
 {
-    "name": "weheartwebsites/socks5",
+    "name": "gfever/socks5",
     "type": "library",
     "description": "A simple SOCKS5 tcp client",
     "keywords": ["proxy", "socks5", "net", "client", "tcp"],
